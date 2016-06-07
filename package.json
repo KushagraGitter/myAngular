@@ -1,0 +1,32 @@
+{
+  "name": "my-own-angularjs",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-testem": "^0.5.22",
+    "sinon": "^1.17.4"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "jquery": "^2.2.3",
+    "lodash": "^4.11.2"
+  },
+  "description": "angular project",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "kushagra",
+  "license": "MIT"
+}
